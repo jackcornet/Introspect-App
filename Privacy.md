@@ -1,10 +1,10 @@
 # Privacy Policy
-Last updated: March 28, 2026
+Last updated: March 30, 2026
 
 This Privacy Policy describes our policies and procedures regarding the collection, use, and disclosure of Your information when You use the Introspect app, and explains Your privacy rights under applicable law.
 
 Introspect is designed to keep your personal spending reflection data private. Your item entries, decisions, and in-app history are stored locally on your device.  
-Some limited data may be processed by third-party services used to run specific app features (such as subscriptions, notifications, and optional verification links).
+Some limited data may be processed by third-party services used to run specific app features (such as subscriptions, notifications, optional verification links, and product analytics).
 
 ### Definitions
 For the purposes of this Privacy Policy:
@@ -30,12 +30,14 @@ For certain features, limited data may be processed by third-party services, inc
 - Subscription status and purchase-related metadata (via RevenueCat / Apple)
 - Push notification token(s) needed to deliver reminders
 - Optional friend verification request data if You use that feature
+- Limited product usage and event data (via Google Analytics)
 
 ### Use of Your Personal Data
 Any data processed is used only to provide and improve the Service, including:
 - Enabling subscriptions and restoring purchases
 - Sending notifications You opt into
 - Running optional verification and sharing features
+- Understanding app performance and feature usage trends
 - Responding to support requests
 
 We do not share personal data for advertising sale.
